@@ -57,7 +57,7 @@ A API estará disponível em **`http://localhost:3000`**.
 
 ## 🧪 Testando com o Postman ou Insomnia
 
-O repositório já inclui o arquivo **`supercopa-clashroyale.json`** na raiz do projeto contendo todas as requisições organizadas (Jogadores, Torneios, Partidas, Fluxo Completo e Erros de Regra):
+O repositório já inclui o arquivo **`supercopa-clashroyale.json`** na raiz do projeto contendo todas as requisições organizadas (Jogadores, Torneios, Partidas):
 
 1. Abra o **Postman** ou o **Insomnia**.
 2. Clique em **Import** (Importar) e selecione o arquivo **`supercopa-clashroyale.json`** da pasta do projeto.
